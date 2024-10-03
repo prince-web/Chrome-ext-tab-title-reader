@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Tab Title Capturer",
+    "version": "1.0",
+    "description": "Captures the titles of open tabs in Chrome",
+    "permissions": ["tabs"],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
